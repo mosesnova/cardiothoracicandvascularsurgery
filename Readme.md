@@ -1,4 +1,5 @@
- <h1>Mitral Valve Replacement.</h1> <br/>
+ Mitral Valve Replacement</h1> 
+ <br/>
 ![Test Imag 8](https://github.com/mosesnova/openheart/blob/main/heart.jpg)
 ![Test Imag 8](https://github.com/mosesnova/openheart/blob/main/scal.jpg)
 ![Test Imag 8](https://github.com/mosesnova/openheart/blob/main/sur.jpg)
