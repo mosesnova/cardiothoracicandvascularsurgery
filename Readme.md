@@ -1,4 +1,4 @@
- Mitral Valve Replacement, Valvotomy and Coronary Artery Bypass Graft</h1> 
+ Mitral Valve Replacement, Valvotomy, Trachaestomy and Coronary Artery Bypass Graft</h1> 
  <br/>
 ![Test Imag 8](https://github.com/mosesnova/openheart/blob/main/heart.jpg)
 ![Test Imag 8](https://github.com/mosesnova/openheart/blob/main/scal.jpg)
